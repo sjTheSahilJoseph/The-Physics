@@ -1,3 +1,3 @@
 @echo off
 
-gcc 01_Introduction.c -o main.exe && main.exe
+gcc 02_Scalars_Vectors_and_Vector_Operations.c -o main.exe && main.exe
